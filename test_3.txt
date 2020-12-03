@@ -1,0 +1,8 @@
+Kozlov 10000
+Ivanov 35000
+Sidorov 19000
+Petrov 12000
+Semenov 24000
+Dolgov 29000
+Lisin 22000
+Suslov 14000
